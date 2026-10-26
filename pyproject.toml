@@ -49,10 +49,10 @@ dependencies = [
 nginx-language-server = "nginx_language_server.cli:cli"
 
 [project.urls]
-Homepage = "https://github.com/walber-vaz/nginx-language-server"
-Repository = "https://github.com/walber-vaz/nginx-language-server"
-Changelog = "https://github.com/walber-vaz/nginx-language-server/blob/main/CHANGELOG.md"
-Issues = "https://github.com/walber-vaz/nginx-language-server/issues"
+Homepage = "https://github.com/lumirelle/nginx-language-server"
+Repository = "https://github.com/lumirelle/nginx-language-server"
+Changelog = "https://github.com/lumirelle/nginx-language-server/blob/main/CHANGELOG.md"
+Issues = "https://github.com/lumirelle/nginx-language-server/issues"
 
 [dependency-groups]
 dev = [

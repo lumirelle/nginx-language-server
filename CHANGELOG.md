@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## 0.11.0
+
+This is the first release of this self used fork at
+<https://github.com/lumirelle/nginx-language-server>. The same to [upstream](https://github.com/walber-vaz/nginx-language-server), it is distributed
+through GitHub releases, not PyPI.
+
 ## 0.10.0
 
 This is the first release of the maintained fork at

@@ -1,12 +1,10 @@
 # Nginx Language Server
 
-[![ci](https://github.com/walber-vaz/nginx-language-server/actions/workflows/ci.yaml/badge.svg)](https://github.com/walber-vaz/nginx-language-server/actions/workflows/ci.yaml)
+[![ci](https://github.com/lumirelle/nginx-language-server/actions/workflows/ci.yaml/badge.svg)](https://github.com/lumirelle/nginx-language-server/actions/workflows/ci.yaml)
 [![image-license](https://img.shields.io/badge/license-GPL%203.0--only-orange)](LICENSE)
-[![image-python-versions](https://img.shields.io/badge/python-3.10%20|%203.11%20|%203.12%20|%203.13%20|%203.14-blue)](pyproject.toml)
+[![image-python-versions](https://img.shields.io/badge/python-%E2%89%A53.10%20-blue)](pyproject.toml)
 
 A [Language Server](https://microsoft.github.io/language-server-protocol/) for `nginx.conf`.
-
-_[Leia em português](README.pt-BR.md)_
 
 > **A self used fork without maximum Python runtime version limitation (`>=3.10.0`), built on top of the [maintained fork](https://github.com/walber-vaz/nginx-language-server) by [@walber-vaz](https://github.com/walber-vaz).**
 
@@ -37,18 +35,18 @@ The server is distributed through GitHub. With
 [uv](https://docs.astral.sh/uv/):
 
 ```bash
-uv tool install git+https://github.com/walber-vaz/nginx-language-server
+uv tool install git+https://github.com/lumirelle/nginx-language-server
 ```
 
 or with [pipx](https://pipx.pypa.io/):
 
 ```bash
-pipx install git+https://github.com/walber-vaz/nginx-language-server
+pipx install git+https://github.com/lumirelle/nginx-language-server
 ```
 
 Wheels are also attached to every
-[GitHub release](https://github.com/walber-vaz/nginx-language-server/releases).
-Python 3.10 to 3.14 is supported.
+[GitHub release](https://github.com/lumirelle/nginx-language-server/releases).
+Python 3.10 to 3.15 is confiremd as supported.
 
 ## Editor setup
 
