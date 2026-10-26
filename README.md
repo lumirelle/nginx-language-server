@@ -8,9 +8,7 @@ A [Language Server](https://microsoft.github.io/language-server-protocol/) for `
 
 _[Leia em português](README.pt-BR.md)_
 
-> **Maintained fork.** The original project,
-> [pappasam/nginx-language-server](https://github.com/pappasam/nginx-language-server)
-> by Sam Roeca, is no longer maintained. This fork continues its development.
+> **A self used fork without maximum Python runtime version limitation (`>=3.10.0`), built on top of the [maintained fork](https://github.com/walber-vaz/nginx-language-server) by [@walber-vaz](https://github.com/walber-vaz).**
 
 ## Features
 

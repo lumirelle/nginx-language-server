@@ -9,10 +9,11 @@ description = "A language server for nginx.conf"
 readme = "README.md"
 license = "GPL-3.0-only"
 license-files = ["LICENSE"]
-requires-python = ">=3.10,<3.15"
+requires-python = ">=3.10"
 authors = [{ name = "Sam Roeca", email = "samuel.roeca@gmail.com" }]
 maintainers = [
   { name = "Walber Vaz da Silva", email = "wvs.walber@gmail.com" },
+  { name = "Lumirelle", email = "lumirelle@outlook.com" },
 ]
 keywords = [
   "nginx",
